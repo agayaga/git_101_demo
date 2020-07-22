@@ -1,5 +1,5 @@
 Hey!
-name: Aya
+name: Michael
 favorite animal: cat
-shirt color: TBD
-live in: Jaffa
+shirt color: white
+live in: Rehovot
