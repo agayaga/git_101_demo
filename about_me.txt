@@ -3,3 +3,5 @@ name: Aya
 favorite animal: cat
 shirt color: black
 live in: Jaffa
+
+I am Amir
