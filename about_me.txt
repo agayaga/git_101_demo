@@ -1,7 +1,5 @@
 Hey!
-name: Aya
-favorite animal: cat
-shirt color: TBD
-live in: Jaffa
-
-I am Amir
+name: Amir
+favorite animal: dog
+shirt color: TBD2
+live in: Jaffa421421
