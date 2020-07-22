@@ -1,5 +1,5 @@
 Hey!
 name: Aya
 favorite animal: cat
-shirt color: TBD
+shirt color: black
 live in: Jaffa
